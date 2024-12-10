@@ -1,0 +1,1115 @@
+[
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:23:55",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "02:01:27",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:14:19",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:02:46",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:28:50",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:01:37",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:55:09",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "02:15:55",
+        "Item": "Mesas",
+        "Projecto": "Mesas de trabajo"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:17:55",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "02:46:47",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Juan Carlos",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:00:05",
+        "Item": "Maquina",
+        "Projecto": "Allegion Cobot Electrical Test"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "01:46:32",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:52:49",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:13:41",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:39:39",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:20:04",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:32:31",
+        "Item": "Retrabajo",
+        "Projecto": "Allegion Cobot Electrical Test"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:32:26",
+        "Item": "TAPA FIXTURA - KEEPPERS MODELO 690",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:16:08",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "02:02:31",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:37:34",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:02",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:27:21",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:03:36",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:00:01",
+        "Item": "Placas",
+        "Projecto": "FIXTURA ROSCADO"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:00:27",
+        "Item": "SLB-BRACKET-ENCERADO-BALERO",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:15",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:34:53",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:37:49",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:11",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:06:50",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:14:40",
+        "Item": "TAPA FIXTURA - KEEPPERS MODELO 690",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:55:41",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "03:34:29",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:03:25",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:23:08",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:31:43",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:03:56",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:17:51",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:06",
+        "Item": "DFGH",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:14:00",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:34",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:11:46",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "03:39:05",
+        "Item": "Maquina",
+        "Projecto": "Heat Conveyor CG"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:11:20",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:00:14",
+        "Item": "SLB-BRACKET-ENCERADO-BALERO",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "01:37:00",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:13",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "02:31:58",
+        "Item": "PALLET - DELRIN NEGRO",
+        "Projecto": "Eaton DTNA"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:11:48",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:00:06",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:02:58",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:02",
+        "Item": "Prueba",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:14:00",
+        "Item": "Prueba",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:03:17",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:52:06",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:00:19",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "03:13:48",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "03:33:51",
+        "Item": "Prueba",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:28:30",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:06",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:35:22",
+        "Item": "Fixturas",
+        "Projecto": "Hyson Remachadora"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:17:37",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:41:06",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:03:19",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:12:13",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:38:40",
+        "Item": "FIXTURA BASE - KEPPERS MODELO 690",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "02:40:41",
+        "Item": "Retrabajo",
+        "Projecto": "Eaton DTNA"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "05:23:16",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Juan Carlos",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:00:02",
+        "Item": "Maquina",
+        "Projecto": "Allegion Cobot Electrical Test"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:28:35",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:41",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "04:55:42",
+        "Item": "Maquina",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:05:30",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:08:06",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "01:26:57",
+        "Item": "Retrabajo",
+        "Projecto": "Eaton DTNA"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:17:49",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:30",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:05:50",
+        "Item": "Nido",
+        "Projecto": "Pieza Delrin"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:53:27",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:52:17",
+        "Item": "Nido",
+        "Projecto": "Pieza Delrin"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:57:05",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:03:19",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "02:53:06",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:08:25",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "02:54:40",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:33:56",
+        "Item": "Maquina",
+        "Projecto": "Heat Conveyor CG"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:05:09",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "01:50:07",
+        "Item": "Fixturas",
+        "Projecto": "Hyson Remachadora"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:22:03",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:56",
+        "Item": "Nido",
+        "Projecto": "Pieza Delrin"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "01:43:23",
+        "Item": "Maquina",
+        "Projecto": "MiniCobot Electrical Test CG"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "01:22:45",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:54:52",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:01",
+        "Item": "Nido",
+        "Projecto": "Pieza Delrin"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:02:57",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "01:03:19",
+        "Item": "Fixturas",
+        "Projecto": "Hyson Remachadora"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:15:21",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:05:40",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "07:37:57",
+        "Item": "PALLET - DELRIN NEGRO",
+        "Projecto": "Eaton DTNA"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:17:41",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "03:06:21",
+        "Item": "Maquina",
+        "Projecto": "Dialight"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:03",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:26:01",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:00:51",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:03:34",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "01:12:42",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:11:38",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:23:32",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:39:18",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:26:44",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:49:20",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "01:41:13",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Practicante",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:10:55",
+        "Item": "SLB-CUBIERTA-ASPIRADO",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:01",
+        "Item": "Prueba",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "01:31:27",
+        "Item": "Retrabajo",
+        "Projecto": "Eaton DTNA"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:08",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:02:15",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:05:01",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:36:06",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:12:07",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:48",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "05:21:24",
+        "Item": "TAPA FIXTURA - KEEPPERS MODELO 690",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:01",
+        "Item": "Prueba",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "02:01:53",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:37:44",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:01:00",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:37:37",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:51:39",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:43:13",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:05:19",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:10:38",
+        "Item": "Hola",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:01:42",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:30:45",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:41:10",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:04",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Mauricio",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:00:01",
+        "Item": "TAPA FIXTURA - KEEPPERS MODELO 690",
+        "Projecto": "Safariland Keepers"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:27",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:05:15",
+        "Item": "Nido",
+        "Projecto": "Pieza Delrin"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "03:37:54",
+        "Item": "Fixturas",
+        "Projecto": "Hyson Remachadora"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:04:47",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:22:34",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:00:03",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "02:42:31",
+        "Item": "Placas",
+        "Projecto": "FIXTURA ROSCADO"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:13:49",
+        "Item": "Maquina",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:15:35",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:02:56",
+        "Item": "sadas",
+        "Projecto": "Belden Inspecci\u00f3n"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:34:29",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "01:29:20",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "01:08:29",
+        "Item": "Maquina",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:02:42",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "03:51:36",
+        "Item": "PALLET - DELRIN NEGRO",
+        "Projecto": "Eaton DTNA"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "03:41:57",
+        "Item": "Maquina",
+        "Projecto": "Heat Conveyor CG"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:05:13",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Omar Uriel",
+        "Maquina": 4,
+        "Tiempo (hh:mm:ss)": "00:00:46",
+        "Item": "Maquina",
+        "Projecto": "Safariland Tact"
+    },
+    {
+        "Empleado": "Julio",
+        "Maquina": 3,
+        "Tiempo (hh:mm:ss)": "00:02:54",
+        "Item": "Retrabajo",
+        "Projecto": "Safariland Belts"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:38",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 2,
+        "Tiempo (hh:mm:ss)": "00:04:37",
+        "Item": "Retrabajo",
+        "Projecto": "Belden Prueba El\u00e9ctrica"
+    },
+    {
+        "Empleado": "Saul",
+        "Maquina": 1,
+        "Tiempo (hh:mm:ss)": "00:30:38",
+        "Item": "Nido",
+        "Projecto": "Pieza Delrin"
+    }
+]
