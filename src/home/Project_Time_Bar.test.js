@@ -60,7 +60,7 @@ describe('Project_Time_Bar Component', () => {
       }]
     };
 
-    expect(processDataForChart(testData)).toEqual(expectedData);
+    expect(processDataForChart(testData)).toEquals(expectedData);
   });
 
   it('should handle missing time data', () => {
