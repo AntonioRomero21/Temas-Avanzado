@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+import { render } from '@testing-library/react';
 import Project_Time_Bar, { processDataForChart, convertTimeToSeconds } from './Project_Time_Bar'; // Ajusta la ruta si es necesario
 
 describe('Project_Time_Bar Component', () => {
