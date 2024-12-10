@@ -3,8 +3,6 @@ import React, { } from 'react'
 import Project_Time_Bar from "./proyect_time_bar"
 import Employee_Time_Table from './employee_time_table'
 import Cnc_Time from './cnc_time'
-import Monthly_Production from './monthly_production'
-import Weekly_Production from './weekly_production'
 import { ResponsiveContainer } from 'recharts'
 
 const Home = () => {

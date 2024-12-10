@@ -9,7 +9,7 @@ export const getTimeMachine = (machine) => {
   const tiempos = timeOperationData.filter(item => item.Maquina === machine);
 
   if (tiempos.length === 0) {
-    return '0 hr:00 min:00 sg';
+    return '0 hr:00 min:00 s';
   }
 
   return sumTime(tiempos);
