@@ -6,13 +6,18 @@ import timeOperationData from "../data/time_operation.json"; // Assuming the JSO
 export const primaryColor = '#3498db'; 
 
 export const getTimeMachine = (machine) => {
-  const tiempos = timeOperationData.filter(item => item.Maquina === machine);
+  try {
+    const tiempos = timeOperationData.filter(item => item.Maquina === machine);
 
-  if (tiempos.length === 0) {
-    return '0 hr:00 min:00 s';
+    if (tiempos.length === 0) {
+      return '0 hr:00 min:00 s';
+    }
+
+    return sumTime(tiempos);
+  } catch (error) {
+    console.error("Error en getTimeMachine:", error);
+    return "Error al calcular el tiempo"; // O un valor por defecto que prefieras
   }
-
-  return sumTime(tiempos);
 };
 
 const sumTime = (tiempos) => {
