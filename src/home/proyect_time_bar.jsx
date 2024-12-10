@@ -1,3 +1,4 @@
+// proyect_time_bar.jsx
 import React, { useEffect, useState } from 'react';
 import timeOperationData from "../data/time_operation.json"; // Assuming the JSON file is in the same directory
 import { Bar } from 'react-chartjs-2';
@@ -20,6 +21,47 @@ ChartJS.register(
   Legend
 );
 
+export const convertTimeToSeconds = (time) => {
+  const parts = time.split(':');
+  let seconds = 0;
+  if (parts.length === 3) {
+    seconds += parseInt(parts[0]) * 3600;
+    seconds += parseInt(parts[1]) * 60;
+    seconds += parseFloat(parts[2]);
+  } else if (parts.length === 2) {
+    seconds += parseInt(parts[0]) * 60;
+    seconds += parseFloat(parts[1]);
+  }
+  return seconds;
+};
+
+export const processDataForChart = (data) => {
+  const groupData = data.reduce((acc, current) => {
+    const name = current.Projecto;
+    if (!acc[name]) {
+      acc[name] = { Projecto: name, tiempo: 0 };
+    }
+    if (current["Tiempo (hh:mm:ss)"]) {
+      acc[name].tiempo += convertTimeToSeconds(current["Tiempo (hh:mm:ss)"]);
+    }
+    return acc;
+  }, {});
+
+  const result = Object.values(groupData).map(proj => ({
+    Projecto: proj.Projecto,
+    tiempo: proj.tiempo / 3600
+  }));
+
+  return {
+    labels: result.map(item => item.Projecto),
+    datasets: [{
+      label: 'Tiempo en horas',
+      data: result.map(item => item.tiempo),
+      backgroundColor: 'rgba(75, 192, 192, 0.6)',
+    }]
+  };
+};
+
 const Project_Time_Bar = () => {
   const [chartData, setChartData] = useState({
     labels: [],
@@ -27,51 +69,9 @@ const Project_Time_Bar = () => {
   });
 
   useEffect(() => {
-    // Process data from the JSON file
     const chartDataProcessed = processDataForChart(timeOperationData);
     setChartData(chartDataProcessed);
   }, []);
-
-  const processDataForChart = (data) => {
-    const groupData = data.reduce((acc, current) => {
-      const name = current.Projecto;
-      if (!acc[name]) {
-        acc[name] = { Projecto: name, tiempo: 0 };
-      }
-      if (current["Tiempo (hh:mm:ss)"]) { // Updated key name here
-        acc[name].tiempo += convertTimeToSeconds(current["Tiempo (hh:mm:ss)"]); // Updated key name here
-      }
-      return acc;
-    }, {});
-
-    const result = Object.values(groupData).map(proj => ({
-      Projecto: proj.Projecto,
-      tiempo: proj.tiempo / 3600
-    }));
-
-    return {
-      labels: result.map(item => item.Projecto),
-      datasets: [{
-        label: 'Tiempo en horas',
-        data: result.map(item => item.tiempo),
-        backgroundColor: 'rgba(75, 192, 192, 0.6)',
-      }]
-    };
-  };
-
-  function convertTimeToSeconds(time) {
-    const parts = time.split(':');
-    let seconds = 0;
-    if (parts.length === 3) {
-      seconds += parseInt(parts[0]) * 3600;
-      seconds += parseInt(parts[1]) * 60;
-      seconds += parseFloat(parts[2]);
-    } else if (parts.length === 2) {
-      seconds += parseInt(parts[0]) * 60;
-      seconds += parseFloat(parts[1]);
-    }
-    return seconds;
-  }
 
   const options = {
     responsive: true,
