@@ -39,6 +39,10 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@testing-library/react": "^16.1.0"
+    "@cfaester/enzyme-adapter-react-18": "^0.8.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "jest": "^27.5.1",
+    "jsdom-global": "^3.0.2"
   }
 }
