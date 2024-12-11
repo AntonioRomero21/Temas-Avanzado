@@ -46,7 +46,7 @@ const sumTime = (tiempos) => {
   return formattedTime;
 };
 
-const AnalyticInfoCard = ({ color, svgSrc, title, count, textcolor }) => {
+const AnalyticInfoCard = ({ svgSrc, title, count, textcolor }) => {
   return (
     <div style={{ padding: '15px', flex: '1 1 200px', flexDirection: 'column', textAlign: 'center' }}>
       <figure role="figure" aria-labelledby={`cnc-machine-title-${title}`}> 
