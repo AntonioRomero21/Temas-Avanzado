@@ -59,8 +59,8 @@ describe('Project_Time_Bar Component', () => {
         backgroundColor: 'rgba(75, 192, 192, 0.6)'
       }]
     };
-
-    expect(processDataForChart(testData)).toEquals(expectedData);
+  
+    expect(processDataForChart(testData)).toEqual(expectedData); 
   });
 
   it('should handle missing time data', () => {
